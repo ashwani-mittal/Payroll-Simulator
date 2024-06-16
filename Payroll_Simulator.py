@@ -1,5 +1,3 @@
-# Payroll Assignment Bootcamp
-
 # This program is written to calculate the payroll for employees in a payroll cycle. 
 # Program was written for a bootcamp assignment for our Fitntech Program for Fall 2022
 
